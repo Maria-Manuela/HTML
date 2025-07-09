@@ -4,4 +4,5 @@ The purpose of this work is to practice structuring and organizing content purel
 
 These projects were developed as part of the Practicum Mayerfeld learning experience, focused on building solid foundational skills in semantic markup and clean code structure.
 
-View it live
+View it live:
+https://stately-palmier-3230cd.netlify.app/
